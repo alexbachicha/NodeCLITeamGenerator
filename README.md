@@ -26,6 +26,6 @@ The dependencies are, [jest](https://jestjs.io/) for running the provided tests,
 
 * The application can be invoked by typing `node app.js`
 
-### License 
+## License 
 
 ![GitHub License](https://img.shields.io/npm/l/inquirer)
