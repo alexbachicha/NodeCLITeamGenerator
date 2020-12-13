@@ -34,8 +34,11 @@ The dependencies are, [jest](https://jestjs.io/) for running the provided tests,
 
 * The application can be invoked by typing `node app.js`
 
-
 ![Demo Gif](assets/demo.gif/)
+
+The finished product will look something like this:
+
+![Screenshot](assets/webpage.png/)
 
 
 ## License 
