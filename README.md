@@ -5,6 +5,14 @@
 This Template Engine generator is a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
 
+## Table of Contents
+
+* [Description](#description)
+* [User Story](#userstory)
+* [Instructions](#instructions)
+* [License](#license)
+
+
 ## User Story
 
 ```
@@ -25,6 +33,10 @@ This application prompts the user for information about the team manager and the
 The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
 
 * The application can be invoked by typing `node app.js`
+
+
+![Demo Gif](assets/demo.gif/)
+
 
 ## License 
 
