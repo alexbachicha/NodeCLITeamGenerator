@@ -3,7 +3,6 @@
 ![Commit History](https://img.shields.io/github/last-commit/alexbachicha/NodeCLITeamGenerator)
 ![Code Size](https://img.shields.io/github/languages/code-size/alexbachicha/NodeCLITeamGenerator)
 
-
 ## Description
 
 This Template Engine generator is a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
@@ -48,3 +47,10 @@ The finished product will look something like this:
 ## License 
 
 ![GitHub License](https://img.shields.io/npm/l/inquirer)
+
+
+## Contributions and Questions
+
+![Contributor Covenant](https://img.shields.io/badge/Contributor)
+
+![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/alexbachicha)
