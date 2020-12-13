@@ -1,4 +1,5 @@
 # Unit 10 Homework: Template Engine Employee Team Generator 
+![Github License](https://img.shields.io/badge/made%20by-%40alexbachicha-success)
 
 ## Description
 
