@@ -53,4 +53,5 @@ The finished product will look something like this:
 
 ![Contributor Covenant](https://img.shields.io/badge/Contributor)
 
-![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/alexbachicha)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/alexbachicha)
+
