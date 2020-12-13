@@ -51,7 +51,9 @@ The finished product will look something like this:
 
 ## Contributions and Questions
 
-![Contributor Covenant](https://img.shields.io/badge/Contributor)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges)
+
+![Github Follow](https://img.shields.io/github/followers/alexbachicha?style=social)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/alexbachicha)
 
