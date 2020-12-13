@@ -1,5 +1,8 @@
 # Unit 10 Homework: Template Engine Employee Team Generator 
 ![Github License](https://img.shields.io/badge/made%20by-%40alexbachicha-success)
+![Commit History](https://img.shields.io/github/last-commit/alexbachicha/NodeCLITeamGenerator)
+![Code Size](https://img.shields.io/github/languages/code-size/alexbachicha/NodeCLITeamGenerator)
+
 
 ## Description
 
